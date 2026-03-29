@@ -8,9 +8,10 @@ This repository contains projects, exercises, and notes from the CNM Deep Dive D
 
 A central place to:
 
-- Store and organize bootcamp projects  
-- Share Projects
+- Store , organize , and share bootcamp projects  
 
 ---
 
 ## Repository Structure
+- Project 1 
+    - Transaction ( Guassian Naive Bayes Prediction Model )
